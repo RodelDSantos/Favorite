@@ -35,4 +35,4 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 8. Hunter
 
 **Members only**
-: Requires the purchase of a bond to access additional content of OSRS. 
+: *Requires the purchase of a bond to access additional content of OSRS.*
