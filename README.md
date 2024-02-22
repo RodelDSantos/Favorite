@@ -3,11 +3,11 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 
 3 Reasons Why I like OSRS: I play the game because it makes me feel the nostalogic feelings as I felt as a child. OSRS has hundreds or even thousands of hours of gameplay. This allows the user to have endless amount of game play. The expected amount of years to max a character takes an average of 8-9 years! Lastly one of the reasons why I like OSRS is because of the player vs monster. I am able to defeat incredible bosses that require mechanics and expensive gear that I worked so hard on.
 
-[Old School Runescape Website](oldschool.runescape.com)
+[Old School Runescape Website](https://oldschool.runescape.com)
 
 ![OSRS Logo](OSRS.jpg)
 
-## List of Free-to play skills of OSRS
+## List of Free to play skills of OSRS
 1. Attack
 2. Strength
 3. Defence
@@ -24,7 +24,7 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 14. Firemaking
 15. Woodcutting
 
-### List of Members-only skills on OSRS
+### List of Members only skills on OSRS
 1. Agility
 2. Herblore
 3. Thieving
@@ -34,5 +34,5 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 7. Construction
 8. Hunter
 
-Members-only
+Members only
 : Requires the purchase of a bond to access additional content of OSRS. 
