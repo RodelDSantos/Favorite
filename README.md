@@ -34,5 +34,5 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 7. Construction
 8. Hunter
 
-Members only
+**Members only**
 : Requires the purchase of a bond to access additional content of OSRS. 
