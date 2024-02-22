@@ -25,14 +25,14 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 15. Woodcutting
 
 ### List of Members-only skills on OSRS
-1.Agility
-2.Herblore
-3.Thieving
-4.Fletching
-5.Slayer
-6.Farming
-7.Construction
-8.Hunter
+1. Agility
+2. Herblore
+3. Thieving
+4. Fletching
+5. Slayer
+6. Farming
+7. Construction
+8. Hunter
 
 Members-only
 : Requires the purchase of a bond to access additional content of OSRS. 
