@@ -36,3 +36,4 @@ Summary: My favorite video game: Old School Runescape aka OSRS. OSRS is a massiv
 
 **Members only**
 : *Requires the purchase of a bond to access additional content of OSRS.*
+[Old School Runescape membership bonds](https://www.runescape.com/oldschool/bonds#_ga=2.230328600.522149313.1709077202-172101543.1709077202)
